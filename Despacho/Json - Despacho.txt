@@ -1,9 +1,9 @@
-Enviamos: Listado de productos vendidos de Despacho.
+Enviamos: Listado de productos vendidos.
 
 Estructura:
 
 {
-  "articulosDespachadosdos": 
+  "articulosDespachados": 
   [
         {
 		"id": 
